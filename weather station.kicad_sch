@@ -1,0 +1,12 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "9ab30ad4-f021-4f3c-a6c9-af87ac397c15")
+	(paper "A4")
+	(title_block
+		(title "Weather station")
+		(rev "A001.1")
+	)
+	(lib_symbols)
+)
